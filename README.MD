@@ -12,7 +12,7 @@ An OpenAI API key
 1. Clone the Repository:
 
 ```
-git clone https://github.com/yourusername/going-places-api.git
+git clone https://github.com/henok/going-places-api.git
 cd going-places-api
 ```
 
